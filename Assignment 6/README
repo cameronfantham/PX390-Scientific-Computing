@@ -1,0 +1,5 @@
+Solve the equation Ax = b for a matrix a stored in band format and x and b real arrays.
+
+STEADY STATE (Central Difference)
+
+TIME EVOLUTION (Central Differnce, Implicit Method)
