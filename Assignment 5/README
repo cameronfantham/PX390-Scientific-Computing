@@ -1,0 +1,1 @@
+Solve the equation Ax = b for a matrix A, stored in band format, and x and b are real arrays.
